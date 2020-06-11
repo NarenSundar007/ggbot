@@ -1,1 +1,1 @@
-worker: python ringer bot.py
+worker: python ringer.py
