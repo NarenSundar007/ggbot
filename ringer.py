@@ -107,4 +107,4 @@ async def goodorbad(ctx):
     ranstuff = random.choice(choices)
     await ctx.send(ranstuff)
 
-client.run("NjIyNzQ2MTMxNzg4NTk1MjAw.Xt906Q.XaVZtrIrnTMsRuPyUXK3OFVqKJQ")
+client.run("NjIyNzQ2MTMxNzg4NTk1MjAw.XuItLw.2C2vsv68ED46FuRGIGA2ZkyPzq0")
